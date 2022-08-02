@@ -1,5 +1,5 @@
 import React from 'react';
-import pic from '../../images/pic 2.png';
+import pic from '../../images/pic R.JPG';
 
 
 const Portfolio = () => {
@@ -10,8 +10,8 @@ const Portfolio = () => {
                     <img src={pic} 
                     style={{width:"350px"}} className="max-w-sm rounded-lg shadow-2xl" />
                     <div>
-                        <h1 class="text-5xl font-bold">Hello, I am sakil <br />Full Stack Developer</h1>
-                        <p class="py-6">hey my name is sakil.I am a jonuior fullStack developer. <br /> I have much knowledge about webside Development.I love make webside.If you want hire me.</p>
+                        <h1 class="text-5xl font-bold">Hello, I am Rubayat <br />Full Stack Developer</h1>
+                        <p class="py-6">hey my name is Rubayat.I am a jonuior fullStack developer. <br /> I have much knowledge about webside Development.I love make webside.If you want hire me.</p>
                         <button class="btn btn-primary">Hire me</button>
                     </div>
                 </div>
@@ -21,9 +21,9 @@ const Portfolio = () => {
                     <div class=" ">
                         <h1 className='text-4xl text-primary text-center  font-mono font-bold'>About me</h1>
                         <div class="py-6 w-full text-xl border-l-orange-700">
-                            <h1 className=' text-success'>Name:Sakil</h1>
-                            <h1 className='py-2 text-success'>Address: 10/7 Ziya Road, Dhaka, Bangladesh.</h1>
-                            <h1 className='text-success'>Education: bsc in programming</h1>
+                            <h1 className=' text-success'>Name:Rubayat</h1>
+                            <h1 className='py-2 text-success'>Address: Uttara, Dhaka-1230, Bangladesh.</h1>
+                            <h1 className='text-success'>Education: BSc in CSE</h1>
                         </div>
                     </div>
                 </div>
