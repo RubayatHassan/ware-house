@@ -1,10 +1,6 @@
 ### webside name
 * Tools Manufactures 
 
-#### live link:
-https://manufacturer-website-2ba74.web.app/
-
-
 * 1.This is a wedding Tools manufactures.
 * 2.This webside have login and register page for authentication.
 * 3.Checkout component is a protect component.
